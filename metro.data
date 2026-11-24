@@ -1,0 +1,294 @@
+from_station,to_station,line_color,line_name,distance_km
+Rithala,Rohini West,Red,Red Line,1.0
+Rohini West,Rohini East,Red,Red Line,1.3
+Rohini East,Pitampura,Red,Red Line,0.8
+Pitampura,Kohat Enclave,Red,Red Line,1.0
+Kohat Enclave,Netaji Subhash Place,Red,Red Line,1.2
+Netaji Subhash Place,Keshav Puram,Red,Red Line,1.2
+Keshav Puram,Kanhaiya Nagar,Red,Red Line,0.7
+Kanhaiya Nagar,Inderlok,Red,Red Line,1.2
+Inderlok,Shastri Nagar,Red,Red Line,1.2
+Shastri Nagar,Pratap Nagar,Red,Red Line,1.7
+Pratap Nagar,Pulbangash,Red,Red Line,0.8
+Pulbangash,Tis Hazari,Red,Red Line,0.9
+Tis Hazari,Kashmere Gate,Red,Red Line,1.2
+Kashmere Gate,Shastri Park,Red,Red Line,2.1
+Shastri Park,Seelampur,Red,Red Line,1.6
+Seelampur,Welcome,Red,Red Line,1.1
+Welcome,Shahdara,Red,Red Line,1.2
+Shahdara,Mansarovar Park,Red,Red Line,1.1
+Mansarovar Park,Jhilmil,Red,Red Line,1.1
+Jhilmil,Dilshad Garden,Red,Red Line,0.9
+Dilshad Garden,Shaheed Nagar,Red,Red Line,1.2
+Shaheed Nagar,Raj Bagh,Red,Red Line,1.3
+Raj Bagh,Majar Mohit Sharma Rajendra Nagar,Red,Red Line,1.2
+Majar Mohit Sharma Rajendra Nagar,Shyam Park,Red,Red Line,1.2
+Shyam Park,Mohan Nagar,Red,Red Line,1.3
+Mohan Nagar,Arthala,Red,Red Line,0.7
+Arthala,Hindon River,Red,Red Line,1.5
+Hindon River,Shaheed Sthal (New Bus Adda),Red,Red Line,1.0
+Samaypur Badli,Rohini Sector 18-19,Yellow,Yellow Line,0.8
+Rohini Sector 18-19,Haiderpur Badli Mor,Yellow,Yellow Line,1.3
+Haiderpur Badli Mor,Jahangir Puri,Yellow,Yellow Line,1.3
+Jahangir Puri,Adarsh Nagar,Yellow,Yellow Line,1.3
+Adarsh Nagar,Azadpur,Yellow,Yellow Line,1.5
+Azadpur,Model Town,Yellow,Yellow Line,1.4
+Model Town,Guru Teg Bahadur Station,Yellow,Yellow Line,1.4
+Guru Teg Bahadur Station,Vishwavidyalaya,Yellow,Yellow Line,0.8
+Vishwavidyalaya,Vidhan Sabha,Yellow,Yellow Line,1.0
+Vidhan Sabha,Civil Lines,Yellow,Yellow Line,1.3
+Civil Lines,Kashmere Gate,Yellow,Yellow Line,1.1
+Kashmere Gate,Chandni Chowk,Yellow,Yellow Line,1.1
+Chandni Chowk,Chawri Bazar,Yellow,Yellow Line,1.0
+Chawri Bazar,New Delhi,Yellow,Yellow Line,0.8
+New Delhi,Rajiv Chowk,Yellow,Yellow Line,1.1
+Rajiv Chowk,Patel Chowk,Yellow,Yellow Line,1.3
+Patel Chowk,Central Secretariat,Yellow,Yellow Line,0.9
+Central Secretariat,Udyog Bhawan,Yellow,Yellow Line,0.3
+Udyog Bhawan,Lok Kalyan Marg,Yellow,Yellow Line,1.6
+Lok Kalyan Marg,Jor Bagh,Yellow,Yellow Line,1.2
+Jor Bagh,Dilli Haat-Ina,Yellow,Yellow Line,1.3
+Dilli Haat-Ina,Aiims,Yellow,Yellow Line,0.8
+Aiims,Green Park,Yellow,Yellow Line,1.0
+Green Park,Hauz Khas,Yellow,Yellow Line,1.8
+Hauz Khas,Malviya Nagar,Yellow,Yellow Line,1.7
+Malviya Nagar,Saket,Yellow,Yellow Line,0.9
+Saket,Qutab Minar,Yellow,Yellow Line,1.7
+Qutab Minar,Chhatarpur,Yellow,Yellow Line,1.3
+Chhatarpur,Sultanpur,Yellow,Yellow Line,1.6
+Sultanpur,Ghitorni,Yellow,Yellow Line,1.3
+Ghitorni,Arjan Garh,Yellow,Yellow Line,2.7
+Arjan Garh,Guru Dronacharya,Yellow,Yellow Line,2.3
+Guru Dronacharya,Sikanderpur,Yellow,Yellow Line,1.0
+Sikanderpur,MG Road,Yellow,Yellow Line,1.2
+MG Road,Iffco Chowk,Yellow,Yellow Line,1.1
+Iffco Chowk,Millennium City Centre Gurugram,Yellow,Yellow Line,1.5
+Dwarka Sector - 21,Dwarka Sector - 8,Blue,Blue Line,1.7
+Dwarka Sector - 8,Dwarka Sector - 9,Blue,Blue Line,1.0
+Dwarka Sector - 9,Dwarka Sector - 10,Blue,Blue Line,1.1
+Dwarka Sector - 10,Dwarka Sector - 11,Blue,Blue Line,1.0
+Dwarka Sector - 11,Dwarka Sector - 12,Blue,Blue Line,1.0
+Dwarka Sector - 12,Dwarka Sector - 13,Blue,Blue Line,0.9
+Dwarka Sector - 13,Dwarka Sector - 14,Blue,Blue Line,0.9
+Dwarka Sector - 14,Dwarka,Blue,Blue Line,1.5
+Dwarka,Dwarka Mor,Blue,Blue Line,1.1
+Dwarka Mor,Nawada,Blue,Blue Line,1.2
+Nawada,Uttam Nagar West,Blue,Blue Line,1.0
+Uttam Nagar West,Uttam Nagar East,Blue,Blue Line,1.0
+Uttam Nagar East,Janakpuri West,Blue,Blue Line,1.3
+Janakpuri West,Janakpuri East,Blue,Blue Line,1.0
+Janakpuri East,Tilak Nagar,Blue,Blue Line,1.0
+Tilak Nagar,Subhash Nagar,Blue,Blue Line,0.9
+Subhash Nagar,Tagore Garden,Blue,Blue Line,0.9
+Tagore Garden,Rajouri Garden,Blue,Blue Line,1.1
+Rajouri Garden,Ramesh Nagar,Blue,Blue Line,1.0
+Ramesh Nagar,Moti Nagar,Blue,Blue Line,1.2
+Moti Nagar,Kirti Nagar,Blue,Blue Line,1.0
+Kirti Nagar,Shadipur,Blue,Blue Line,0.7
+Shadipur,Patel Nagar,Blue,Blue Line,1.3
+Patel Nagar,Rajendra Place,Blue,Blue Line,0.9
+Rajendra Place,Karol Bagh,Blue,Blue Line,1.0
+Karol Bagh,Jhandewalan,Blue,Blue Line,1.2
+Jhandewalan,Ramakrishna Ashram Marg,Blue,Blue Line,1.0
+Ramakrishna Ashram Marg,Rajiv Chowk,Blue,Blue Line,1.2
+Rajiv Chowk,Barakhamba Road,Blue,Blue Line,0.7
+Barakhamba Road,Mandi House,Blue,Blue Line,1.0
+Mandi House,Supreme Court,Blue,Blue Line,0.8
+Supreme Court,Indraprastha,Blue,Blue Line,0.8
+Indraprastha,Yamuna Bank,Blue,Blue Line,1.8
+Yamuna Bank,Akshardham,Blue,Blue Line,1.3
+Akshardham,Mayur Vihar - I,Blue,Blue Line,1.8
+Mayur Vihar - I,Mayur Vihar Extension,Blue,Blue Line,1.2
+Mayur Vihar Extension,New Ashok Nagar,Blue,Blue Line,0.9
+New Ashok Nagar,Noida Sector-15,Blue,Blue Line,1.0
+Noida Sector-15,Noida Sector-16,Blue,Blue Line,1.1
+Noida Sector-16,Noida Sector-18,Blue,Blue Line,1.1
+Noida Sector-18,Botanical Garden,Blue,Blue Line,1.1
+Botanical Garden,Golf Course,Blue,Blue Line,1.2
+Golf Course,Noida City Centre,Blue,Blue Line,1.3
+Noida City Centre,Sector - 34 Noida,Blue,Blue Line,0.9
+Sector - 34 Noida,Sector - 52 Noida,Blue,Blue Line,1.2
+Sector - 52 Noida,Sector - 61 Noida,Blue,Blue Line,1.2
+Sector - 61 Noida,Sector - 59 Noida,Blue,Blue Line,1.0
+Sector - 59 Noida,Sector - 62 Noida,Blue,Blue Line,1.2
+Sector - 62 Noida,Noida Electronic City,Blue,Blue Line,1.2
+Yamuna Bank,Laxmi Nagar,Blue Branch,Blue Line Branch,1.3
+Laxmi Nagar,Nirman Vihar,Blue Branch,Blue Line Branch,1.1
+Nirman Vihar,Preet Vihar,Blue Branch,Blue Line Branch,1.0
+Preet Vihar,Karkarduma,Blue Branch,Blue Line Branch,1.2
+Karkarduma,Anand Vihar Isbt,Blue Branch,Blue Line Branch,1.1
+Anand Vihar Isbt,Kaushambi,Blue Branch,Blue Line Branch,0.8
+Kaushambi,Vaishali,Blue Branch,Blue Line Branch,1.6
+Inderlok,Ashok Park Main,Green,Green Line,1.4
+Ashok Park Main,Punjabi Bagh,Green,Green Line,0.9
+Punjabi Bagh,Punjabi Bagh West,Green,Green Line,0.8
+Punjabi Bagh West,Shivaji Park,Green,Green Line,0.8
+Shivaji Park,Madipur,Green,Green Line,1.1
+Madipur,Paschim Vihar East,Green,Green Line,0.7
+Paschim Vihar East,Paschim Vihar West,Green,Green Line,1.0
+Paschim Vihar West,Peeragarhi,Green,Green Line,0.9
+Peeragarhi,Udyog Nagar,Green,Green Line,1.2
+Udyog Nagar,Maharaja Surajmal Stadium,Green,Green Line,0.7
+Maharaja Surajmal Stadium,Nangloi,Green,Green Line,0.8
+Nangloi,Nangloi Railway Station,Green,Green Line,0.9
+Nangloi Railway Station,Rajdhani Park,Green,Green Line,1.2
+Rajdhani Park,Mundka,Green,Green Line,1.3
+Mundka,Mundka Industrial Area,Green,Green Line,1.3
+Mundka Industrial Area,Ghevra,Green,Green Line,2.1
+Ghevra,Tikri Kalan,Green,Green Line,1.8
+Tikri Kalan,Tikri Border,Green,Green Line,1.3
+Tikri Border,Pandit Shree Ram Sharma,Green,Green Line,1.3
+Pandit Shree Ram Sharma,Bahadurgarh City,Green,Green Line,1.5
+Bahadurgarh City,Brig. Hoshiar Singh,Green,Green Line,1.8
+Ashok Park Main,Satguru Ram Singh Marg,Green Branch,Green Line Branch,1.1
+Satguru Ram Singh Marg,Kirti Nagar,Green Branch,Green Line Branch,1.0
+Kashmere Gate,Lal Quila,Violet,Violet Line,1.5
+Lal Quila,Jama Masjid,Violet,Violet Line,0.8
+Jama Masjid,Delhi Gate,Violet,Violet Line,1.4
+Delhi Gate,ITO,Violet,Violet Line,1.3
+ITO,Mandi House,Violet,Violet Line,0.8
+Mandi House,Janpath,Violet,Violet Line,1.4
+Janpath,Central Secretariat,Violet,Violet Line,1.3
+Central Secretariat,Khan Market,Violet,Violet Line,2.1
+Khan Market,JLN Stadium,Violet,Violet Line,1.4
+JLN Stadium,Jangpura,Violet,Violet Line,0.9
+Jangpura,Lajpat Nagar,Violet,Violet Line,1.5
+Lajpat Nagar,Moolchand,Violet,Violet Line,0.7
+Moolchand,Kailash Colony,Violet,Violet Line,1.3
+Kailash Colony,Nehru Place,Violet,Violet Line,1.0
+Nehru Place,Kalkaji Mandir,Violet,Violet Line,0.8
+Kalkaji Mandir,Govindpuri,Violet,Violet Line,0.7
+Govindpuri,Harkesh Nagar Okhla,Violet,Violet Line,1.1
+Harkesh Nagar Okhla,Jasola Apollo,Violet,Violet Line,0.9
+Jasola Apollo,Sarita Vihar,Violet,Violet Line,1.2
+Sarita Vihar,Mohan Estate,Violet,Violet Line,1.2
+Mohan Estate,Tughlakabad,Violet,Violet Line,1.9
+Tughlakabad,Badarpur Border,Violet,Violet Line,1.1
+Badarpur Border,Sarai,Violet,Violet Line,2.5
+Sarai,NHPC Chowk,Violet,Violet Line,1.6
+NHPC Chowk,Mewala Maharajpur,Violet,Violet Line,0.9
+Mewala Maharajpur,Sector-28,Violet,Violet Line,1.2
+Sector-28,Badkal Mor,Violet,Violet Line,1.7
+Badkal Mor,Old Faridabad,Violet,Violet Line,1.2
+Old Faridabad,Neelam Chowk Ajronda,Violet,Violet Line,1.6
+Neelam Chowk Ajronda,Bata Chowk,Violet,Violet Line,1.3
+Bata Chowk,Escorts Mujesar,Violet,Violet Line,1.8
+Escorts Mujesar,Sant Surdas Sihi,Violet,Violet Line,1.7
+Sant Surdas Sihi,Raja Nahar Singh Balabgarh,Violet,Violet Line,1.7
+Majlis Park,Azadpur,Pink,Pink Line,2.1
+Azadpur,Shalimar Bagh,Pink,Pink Line,1.6
+Shalimar Bagh,Netaji Subhash Place,Pink,Pink Line,1.4
+Netaji Subhash Place,Shakurpur,Pink,Pink Line,1.2
+Shakurpur,Punjabi Bagh West,Pink,Pink Line,1.4
+Punjabi Bagh West,Esi-Basaidarapur,Pink,Pink Line,2.5
+Esi-Basaidarapur,Rajouri Garden,Pink,Pink Line,1.1
+Rajouri Garden,Mayapuri,Pink,Pink Line,1.5
+Mayapuri,Naraina Vihar,Pink,Pink Line,1.5
+Naraina Vihar,Delhi Cantt,Pink,Pink Line,1.8
+Delhi Cantt,Durgabai Deshmukh South Campus,Pink,Pink Line,3.6
+Durgabai Deshmukh South Campus,Sir Vishweshwaraiah Moti Bagh,Pink,Pink Line,1.3
+Sir Vishweshwaraiah Moti Bagh,Bhikaji Cama Place,Pink,Pink Line,1.6
+Bhikaji Cama Place,Sarojini Nagar,Pink,Pink Line,1.2
+Sarojini Nagar,Dilli Haat-Ina,Pink,Pink Line,1.1
+Dilli Haat-Ina,South Extension,Pink,Pink Line,1.2
+South Extension,Lajpat Nagar,Pink,Pink Line,1.6
+Lajpat Nagar,Vinobapuri,Pink,Pink Line,1.4
+Vinobapuri,Ashram,Pink,Pink Line,1.2
+Ashram,SARAI KALE KHAN - NIZAMUDDIN,Pink,Pink Line,1.9
+SARAI KALE KHAN - NIZAMUDDIN,Mayur Vihar - I,Pink,Pink Line,3.6
+Mayur Vihar - I,Mayur Vihar Pocket-1,Pink,Pink Line,0.8
+Mayur Vihar Pocket-1,Trilokpuri-Sanjay Lake,Pink,Pink Line,1.3
+Trilokpuri-Sanjay Lake,East Vinod Nagar-Mayur Vihar -II,Pink,Pink Line,0.8
+East Vinod Nagar-Mayur Vihar -II,Mandawali West Vinod Nagar,Pink,Pink Line,0.6
+Mandawali West Vinod Nagar,IP Extension,Pink,Pink Line,1.0
+IP Extension,Anand Vihar Isbt,Pink,Pink Line,1.6
+Anand Vihar Isbt,Karkarduma,Pink,Pink Line,1.0
+Karkarduma,Karkarduma Court,Pink,Pink Line,1.1
+Karkarduma Court,Krishna Nagar,Pink,Pink Line,0.7
+Krishna Nagar,East Azad Nagar,Pink,Pink Line,1.0
+East Azad Nagar,Welcome,Pink,Pink Line,1.1
+Welcome,Jafrabad,Pink,Pink Line,1.2
+Jafrabad,Maujpur-Babarpur,Pink,Pink Line,1.1
+Maujpur-Babarpur,Yamuna Vihar,Pink,Pink Line,1.0
+Yamuna Vihar,Bhajanpura,Pink,Pink Line,1.0
+Bhajanpura,Khajuri Khas,Pink,Pink Line,1.4
+Khajuri Khas,Nanaksar - Sonia Vihar,Pink,Pink Line,1.6
+Nanaksar - Sonia Vihar,Soorghat,Pink,Pink Line,1.8
+Soorghat,Jagatpur - Wazirabad,Pink,Pink Line,1.2
+Jagatpur - Wazirabad,Jharoda Majra,Pink,Pink Line,1.5
+Jharoda Majra,Burari,Pink,Pink Line,1.4
+Maujpur-Babarpur,Gokulpuri,Pink,Pink Line,1.3
+Gokulpuri,Johri Enclave,Pink,Pink Line,1.3
+Johri Enclave,Shiv Vihar,Pink,Pink Line,0.9
+West Enclave,Mangolpuri,Magenta,Magenta Line,1.4
+Mangolpuri,Peeragarhi,Magenta,Magenta Line,1.5
+Peeragarhi,Paschim Vihar,Magenta,Magenta Line,1.2
+Paschim Vihar,Keshopur,Magenta,Magenta Line,1.4
+Keshopur,Krishna Park Extension,Magenta,Magenta Line,1.3
+Krishna Park Extension,Janakpuri West,Magenta,Magenta Line,1.4
+Janakpuri West,Dabri Mor-Janakpuri South,Magenta,Magenta Line,2.0
+Dabri Mor-Janakpuri South,Dashrathpuri,Magenta,Magenta Line,1.1
+Dashrathpuri,Palam,Magenta,Magenta Line,1.5
+Palam,Sadar Bazar Cantonment,Magenta,Magenta Line,2.6
+Sadar Bazar Cantonment,Terminal 1-Igi Airport,Magenta,Magenta Line,1.7
+Terminal 1-Igi Airport,Shankar Vihar,Magenta,Magenta Line,1.8
+Shankar Vihar,Vasant Vihar,Magenta,Magenta Line,2.1
+Vasant Vihar,Munirka,Magenta,Magenta Line,1.2
+Munirka,R K Puram,Magenta,Magenta Line,1.4
+R K Puram,IIT,Magenta,Magenta Line,0.9
+IIT,Hauz Khas,Magenta,Magenta Line,1.2
+Hauz Khas,Panchsheel Park,Magenta,Magenta Line,1.5
+Panchsheel Park,Chirag Delhi,Magenta,Magenta Line,0.9
+Chirag Delhi,Greater Kailash,Magenta,Magenta Line,0.9
+Greater Kailash,Nehru Enclave,Magenta,Magenta Line,1.3
+Nehru Enclave,Kalkaji Mandir,Magenta,Magenta Line,0.9
+Kalkaji Mandir,Okhla Nsic,Magenta,Magenta Line,0.8
+Okhla Nsic,Sukhdev Vihar,Magenta,Magenta Line,1.1
+Sukhdev Vihar,Jamia Millia Islamia,Magenta,Magenta Line,1.2
+Jamia Millia Islamia,Okhla Vihar,Magenta,Magenta Line,0.5
+Okhla Vihar,Jasola Vihar Shaheen Bagh,Magenta,Magenta Line,1.8
+Jasola Vihar Shaheen Bagh,Kalindi Kunj,Magenta,Magenta Line,1.4
+Kalindi Kunj,Okhla Bird Sanctuary,Magenta,Magenta Line,1.6
+Okhla Bird Sanctuary,Botanical Garden,Magenta,Magenta Line,1.7
+Dwarka,Nangli,Grey,Grey Line,1.5
+Nangli,Najafgarh,Grey,Grey Line,2.4
+Najafgarh,Dhansa Bus Stand,Grey,Grey Line,1.2
+New Delhi,Shivaji Stadium,Orange,Airport Express Line,1.9
+Shivaji Stadium,Dhaula Kuan,Orange,Airport Express Line,6.4
+Dhaula Kuan,Delhi Aerocity,Orange,Airport Express Line,6.2
+Delhi Aerocity,Airport,Orange,Airport Express Line,3.4
+Airport,Dwarka Sector - 21,Orange,Airport Express Line,2.9
+Dwarka Sector - 21,Yashoboomi Dwarka Sector - 25,Orange,Airport Express Line,2.0
+Sector 55-56,Sector 54 Chowk,Rapid Metro,Rapid Metro,1.1
+Sector 54 Chowk,Sector 53-54,Rapid Metro,Rapid Metro,1.5
+Sector 53-54,Sector 42-43,Rapid Metro,Rapid Metro,1.3
+Sector 42-43,Phase 1,Rapid Metro,Rapid Metro,1.6
+Phase 1,Sikanderpur,Rapid Metro,Rapid Metro,1.1
+Sikanderpur,Phase 2,Rapid Metro,Rapid Metro,0.7
+Phase 2,Belvedere Towers,Rapid Metro,Rapid Metro,0.7
+Belvedere Towers,Cyber City,Rapid Metro,Rapid Metro,0.6
+Cyber City,Moulsari Avenue,Rapid Metro,Rapid Metro,0.6
+Moulsari Avenue,Phase 3,Rapid Metro,Rapid Metro,0.8
+Noida Sector 51,Noida Sector 50,Aqua,Aqua Line,1.3
+Noida Sector 50,Noida Sector 76,Aqua,Aqua Line,1.0
+Noida Sector 76,Noida Sector 101,Aqua,Aqua Line,1.1
+Noida Sector 101,Noida Sector 81,Aqua,Aqua Line,0.9
+Noida Sector 81,NSEZ Noida,Aqua,Aqua Line,2.0
+NSEZ Noida,Noida Sector 83,Aqua,Aqua Line,1.1
+Noida Sector 83,Noida Sector 137,Aqua,Aqua Line,1.5
+Noida Sector 137,Noida Sector 142,Aqua,Aqua Line,1.6
+Noida Sector 142,Noida Sector 143,Aqua,Aqua Line,1.0
+Noida Sector 143,Noida Sector 144,Aqua,Aqua Line,1.4
+Noida Sector 144,Noida Sector 145,Aqua,Aqua Line,1.2
+Noida Sector 145,Noida Sector 146,Aqua,Aqua Line,1.7
+Noida Sector 146,Noida Sector 147,Aqua,Aqua Line,1.5
+Noida Sector 147,Noida Sector 148,Aqua,Aqua Line,1.6
+Noida Sector 148,Knowledge Park II,Aqua,Aqua Line,2.5
+Knowledge Park II,Pari Chowk Greater Noida,Aqua,Aqua Line,1.1
+Pari Chowk Greater Noida,Alpha 1 Greater Noida,Aqua,Aqua Line,0.9
+Alpha 1 Greater Noida,Delta 1 Greater Noida,Aqua,Aqua Line,1.5
+Delta 1 Greater Noida,GNIDA Office,Aqua,Aqua Line,1.3
+GNIDA Office,Depot Greater Noida,Aqua,Aqua Line,0.9
+Burari,Majlis Park,Pink,Pink Line Ring Closer,1.4
+Sector - 52 Noida,Noida Sector 51,Interchange Walkway,Blue-Aqua Walkway,0.3
+Peeragarhi,Peeragarhi,Interchange Walkway,Green-Magenta Peeragarhi Walkway,0.1

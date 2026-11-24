@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Delhi Metro Route Planner</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app-layout">
+    <header class="app-header">
+      <div class="logo-group">
+        <span class="metro-icon">🚇</span>
+        <div>
+          <h1>Delhi Metro Route Planner</h1>
+          <p class="subtitle">Quick journey planning &amp; interchange guide</p>
+        </div>
+      </div>
+    </header>
+
+    <!-- Planning Form -->
+    <main class="card main-card">
+      <div class="inputs-row">
+        <div class="input-field">
+          <label for="srcInput">From Station</label>
+          <div class="input-container">
+            <span class="field-icon origin-dot">●</span>
+            <input 
+              type="text" 
+              id="srcInput" 
+              list="stationsDatalist" 
+              placeholder="Type or select origin..." 
+              autocomplete="off"
+            />
+            <button type="button" class="clear-input-btn" id="clearSrc" title="Clear">✕</button>
+          </div>
+        </div>
+
+        <button type="button" class="swap-action-btn" id="swapBtn" title="Swap Stations">
+          <span>⇅</span>
+        </button>
+
+        <div class="input-field">
+          <label for="destInput">To Station</label>
+          <div class="input-container">
+            <span class="field-icon dest-dot">●</span>
+            <input 
+              type="text" 
+              id="destInput" 
+              list="stationsDatalist" 
+              placeholder="Type or select destination..." 
+              autocomplete="off"
+            />
+            <button type="button" class="clear-input-btn" id="clearDest" title="Clear">✕</button>
+          </div>
+        </div>
+      </div>
+
+      <datalist id="stationsDatalist"></datalist>
+
+      <button type="button" class="search-submit-btn" id="findRouteBtn">
+        Find Best Route
+      </button>
+    </main>
+
+    <!-- Results Section -->
+    <section class="card results-card" id="resultsCard" style="display: none;">
+      <!-- Alternate Route Tabs (shown only if alternative route exists) -->
+      <div class="route-tabs-container" id="routeTabsContainer" style="display: none;"></div>
+
+      <div class="trip-summary-bar">
+        <div class="summary-stat">
+          <span class="stat-number" id="statDistance">--</span>
+          <span class="stat-name">Distance</span>
+        </div>
+        <div class="summary-divider"></div>
+        <div class="summary-stat">
+          <span class="stat-number" id="statStops">--</span>
+          <span class="stat-name">Stations</span>
+        </div>
+        <div class="summary-divider"></div>
+        <div class="summary-stat">
+          <span class="stat-number" id="statInterchanges">--</span>
+          <span class="stat-name">Interchanges</span>
+        </div>
+        <div class="summary-divider"></div>
+        <div class="summary-stat">
+          <span class="stat-number" id="statTime">--</span>
+          <span class="stat-name">Travel Time</span>
+        </div>
+        <div class="summary-divider"></div>
+        <div class="summary-stat">
+          <span class="stat-number" id="statFare">--</span>
+          <span class="stat-name">Fare</span>
+        </div>
+      </div>
+
+      <h2 class="route-heading">Station-by-Station Route</h2>
+      <div class="route-timeline" id="routeTimeline"></div>
+    </section>
+  </div>
+
+  <script src="metro.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
